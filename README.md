@@ -1,4 +1,4 @@
-# _Vanilla Node REST API_
+# _Vanilla NodeJs CRUD API_
 
 > _Full CRUD REST API using Node.js with no framework_
 
